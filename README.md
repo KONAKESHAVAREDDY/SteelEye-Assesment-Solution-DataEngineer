@@ -13,7 +13,7 @@ Then u copy the http url and paste it in the browser u will get the application
 
 I will demonstrate the output below
 
-1. Fetching  All the  Trades
+1.Fetching  All the  Trades
 I added the endpoint URL /trades/ to get all the trades stored in the database. I returned the array where I have stored the details of the trade.
 
 
@@ -34,4 +34,11 @@ For this, I have used inbuilt library given in the fastapi. They have created a 
 
 6.Sorting Functionality
 I have created a enum class. So that user can easily select the order in which they want to sort the data. I have used /sorted/ library given in the python to sort the list of dictionary according to the parameter given from the user.
+
+<img width="555" alt="Screenshot 2023-06-06 223034" src="https://github.com/KONAKESHAVAREDDY/SteelEye-Assesment-Solution-DataEngineer/assets/104962709/a470c6e5-045e-49ee-a995-08e51393d5b7">
+
+
+
+
+
 
