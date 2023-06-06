@@ -36,6 +36,13 @@ For this, I have used inbuilt library given in the fastapi. They have created a 
 I have created a enum class. So that user can easily select the order in which they want to sort the data. I have used /sorted/ library given in the python to sort the list of dictionary according to the parameter given from the user.
 
 <img width="555" alt="Screenshot 2023-06-06 223034" src="https://github.com/KONAKESHAVAREDDY/SteelEye-Assesment-Solution-DataEngineer/assets/104962709/a470c6e5-045e-49ee-a995-08e51393d5b7">
+<img width="514" alt="Screenshot 2023-06-06 223234" src="https://github.com/KONAKESHAVAREDDY/SteelEye-Assesment-Solution-DataEngineer/assets/104962709/beac1019-9f57-418b-b86b-abf427a07324">
+<img width="534" alt="Screenshot 2023-06-06 223257" src="https://github.com/KONAKESHAVAREDDY/SteelEye-Assesment-Solution-DataEngineer/assets/104962709/ecf1351c-704a-4d6b-ad47-286b996ee194">
+<img width="503" alt="Screenshot 2023-06-06 223316" src="https://github.com/KONAKESHAVAREDDY/SteelEye-Assesment-Solution-DataEngineer/assets/104962709/00ccc0a3-8085-4106-a884-91c4d3b67cfd">
+
+
+
+
 
 
 
